@@ -33,7 +33,7 @@ graph TD
 ## 🛠️ Tech Stack Principal
 - **Procesamiento:** Python 3.10, Pandas, NumPy
 - **Visualización:** Matplotlib, Seaborn, Plotly
-- **Entorno:** Jupyter Lab, VS Code, Docker
+- **Entorno:** Jupyter Lab, VS Code
 - **Control de Versiones:** Git, GitHub Actions
 
 ## 📂 Estructura del Proyecto
@@ -64,11 +64,6 @@ pip install -r requirements.txt
 ```bash
 jupyter lab notebooks/EDA.ipynb
 ```
-
-## 📈 Próximos Pasos
-- [ ] Implementar pipeline de machine learning
-- [ ] Integrar Airflow para orquestación
-- [ ] Desplegar visualizaciones en Streamlit
 
 ## 📄 Licencia
 [MIT License](LICENSE) - Ver archivo adjunto para detalles
