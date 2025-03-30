@@ -52,7 +52,7 @@ graph TD
 ## 🚀 Cómo Empezar
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/Latam_DataScience2024.git
+git clone https://github.com/ctobar96/Latam_DataScience2024.git
 ```
 
 2. Instala dependencias:
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 3. Ejecuta el notebook de análisis:
 ```bash
-jupyter lab notebooks/EDA.ipynb
+jupyter lab notebooks/Desafio.ipynb
 ```
 
 ## 📄 Licencia
@@ -70,7 +70,7 @@ jupyter lab notebooks/EDA.ipynb
 
 ---
 
-👨💻 **Autor:** [Tu Nombre]  
-📧 **Contacto:** [tu.email@latam.com]  
-🔗 **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
+👨💻 **Autor:** [Cristian Tobar Morales]  
+📧 **Contacto:** [cristiantobarmorales@gmail.com]  
+🔗 **LinkedIn:** [](https://www.linkedin.com/in/tu-perfil)
 
