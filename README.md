@@ -70,7 +70,7 @@ jupyter lab notebooks/Desafio.ipynb
 
 ---
 
-👨💻 **Autor:** [Cristian Tobar Morales]  
-📧 **Contacto:** [cristiantobarmorales@gmail.com]  
+👨💻 **Autor:** Cristian Tobar Morales  
+📧 **Contacto:** cristiantobarmorales@gmail.com  
 🔗 **LinkedIn:** [](https://www.linkedin.com/in/tu-perfil)
 
